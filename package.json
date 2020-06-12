@@ -1,0 +1,14 @@
+{
+    "name": "@projek-xyz/version",
+    "private": true,
+    "version": "0.0.0",
+    "author": "Fery Wardiyanto <ferywardiyanto@gmail.com>",
+    "repository": "github:projek-xyz/version",
+    "scripts": {
+        "release": "standard-version"
+    },
+    "devDependencies": {
+        "standard-version": "^8.0.0"
+    },
+    "standard-version": {}
+}

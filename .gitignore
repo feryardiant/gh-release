@@ -1,0 +1,35 @@
+# Generic
+# --------------------------
+Thumbs.db
+Desktop.ini
+.directory
+*.cache
+*.old
+*.log
+*.tmp
+*.zip
+._
+*~
+
+# IDE Project Configurations
+# --------------------------
+nbproject
+.idea
+.settings
+.vscode
+.project
+*.sublime-*
+
+# Developments
+# --------------------------
+node_modules
+vendor
+.php-version
+clover.xml
+lcov.info
+_ide_helper.php
+_book
+
+# But Keep these
+# --------------------------
+!.gitkeep
