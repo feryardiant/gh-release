@@ -1,5 +1,5 @@
 const changelog = require('conventional-changelog')
-const pkg = require('package.json')
+const pkg = require('./package')
 
 module.exports = new Promise((resolve, reject) => {
     const stream = changelog({
