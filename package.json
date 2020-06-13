@@ -5,7 +5,7 @@
     "author": "Fery Wardiyanto <ferywardiyanto@gmail.com>",
     "repository": "github:projek-xyz/version",
     "scripts": {
-        "release": "standard-version"
+        "release": "standard-version -s"
     },
     "devDependencies": {
         "@commitlint/cli": "^8.3.5",
