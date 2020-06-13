@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/projek-xyz/version/compare/v0.1.4...v0.1.5) (2020-06-13)
+
+
+### Bug Fixes
+
+* run read-changelog directly ([bf88558](https://github.com/projek-xyz/version/commit/bf88558c5af23835891a614abf15429ba7eac9ad))
+
 ### [0.1.4](https://github.com/projek-xyz/version/compare/v0.1.3...v0.1.4) (2020-06-13)
 
 
