@@ -39,7 +39,6 @@ jobs:
         mkdir releases
         echo 'first' > releases/first.txt
         echo 'second' > releases/second.txt
-        node publish.js > PUBLISH.txt
     
     - name: Upload binaries to release
       uses: softprops/action-gh-release@v1
@@ -47,4 +46,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         files: releases/*.txt
-        body_path: PUBLISH.txt
+        body: node publish.js
