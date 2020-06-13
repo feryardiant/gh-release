@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/projek-xyz/version/compare/v0.1.2...v0.1.3) (2020-06-13)
+
+
+### Bug Fixes
+
+* **release:** fix release body ([ea5563b](https://github.com/projek-xyz/version/commit/ea5563b9df894f36ff1289f3ab9369aa06c03d03))
+
 ### [0.1.2](https://github.com/projek-xyz/version/compare/v0.1.1...v0.1.2) (2020-06-13)
 
 
