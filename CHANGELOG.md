@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/projek-xyz/version/compare/v0.1.3...v0.1.4) (2020-06-13)
+
+
+### Features
+
+* use @feryardiant/read-changelog package ([6122830](https://github.com/projek-xyz/version/commit/61228307cbd57775ab3dcd0c016098442ccd9b91))
+
 ### [0.1.3](https://github.com/projek-xyz/version/compare/v0.1.2...v0.1.3) (2020-06-13)
 
 
