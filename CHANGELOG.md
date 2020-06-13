@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/projek-xyz/version/compare/v0.1.1...v0.1.2) (2020-06-13)
+
+
+### Features
+
+* remove conventional-changelog ([5ca6f0c](https://github.com/projek-xyz/version/commit/5ca6f0c191e0c682777dfb7878a206de4bfc994e))
+* **release:** always sign release ([6900aed](https://github.com/projek-xyz/version/commit/6900aed805a0a5b7faa085776176f2a9ce28ba37))
+* **release:** fetch release body from CHANGELOG.md file ([0fc6060](https://github.com/projek-xyz/version/commit/0fc60602e9fefed0ab4e2ed9418a49c1e0ef4df2))
+
 ### [0.1.1](https://github.com/projek-xyz/version/compare/v0.1.0...v0.1.1) (2020-06-12)
 
 
