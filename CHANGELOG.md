@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.6](https://github.com/projek-xyz/version/compare/v0.1.5...v0.1.6) (2020-06-16)
+
+
+### Features
+
+* add fourth feature ([dbeef30](https://github.com/projek-xyz/version/commit/dbeef30415ddad7010350db26aa03b5c63f842c6))
+* use npx to read changelog file ([b8be586](https://github.com/projek-xyz/version/commit/b8be586bb5994e7625c595c401694f39c65759bd))
+
 ### [0.1.5](https://github.com/projek-xyz/version/compare/v0.1.4...v0.1.5) (2020-06-13)
 
 
