@@ -153,11 +153,6 @@
   dependencies:
     find-up "^4.0.0"
 
-"@feryardiant/read-changelog@^0.1.0":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@feryardiant/read-changelog/-/read-changelog-0.1.1.tgz#b1144d1f3528a4ec113220df81062825b8f00240"
-  integrity sha512-6JEDtR5veyiofeuxsks6UQ8RtFPvt8D586A1LcoPLbbPupqYvQjpvUYFvFwVTRNMbpG4+whKpzwc9EaHvABE4Q==
-
 "@marionebl/sander@^0.6.0":
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/@marionebl/sander/-/sander-0.6.1.tgz#1958965874f24bc51be48875feb50d642fc41f7b"
